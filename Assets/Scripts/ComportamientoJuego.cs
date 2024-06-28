@@ -18,6 +18,8 @@ public class ComportamientoJuego : MonoBehaviour
         Producto producto2rndm = segundoproducto[UnityEngine.Random.Range(0, segundoproducto.Length - 1)];
         producto1rndm.gameObject.SetActive(true);
         producto2rndm.gameObject.SetActive(true);
+        Precio1.text = producto1rndm.precio.ToString();
+        Precio2.text = producto2rndm.precio.ToString();
     }
 
     void DeactivateAll()
@@ -38,7 +40,6 @@ public class ComportamientoJuego : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        DeactivateAll();
         Comienzodejuego();
     }
 

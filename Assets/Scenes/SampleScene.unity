@@ -123,6 +123,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kohen_Liam_48313909 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 8cd45fa1c1f9ffc479c68ad4b4583567, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8cd45fa1c1f9ffc479c68ad4b4583567, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181.7
@@ -216,6 +220,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: e51a6fd008917c542855570b97a30ea1, type: 3}
       propertyPath: m_Name
       value: Hauser_Tomas_48386206
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e51a6fd008917c542855570b97a30ea1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e51a6fd008917c542855570b97a30ea1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -436,6 +444,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Michanie_Maia_48521774 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6880d44d463038a42a3a92100af212a1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6880d44d463038a42a3a92100af212a1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181.7
@@ -601,6 +613,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lerman_Lautaro_48311063
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 30203d87414764649a22eb5e25d61370, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 30203d87414764649a22eb5e25d61370, type: 3}
       propertyPath: m_LocalPosition.x
       value: 58.6
@@ -694,6 +710,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bbeeed91db25036449d48843ebf63a79, type: 3}
       propertyPath: m_Name
       value: Niebieski_Matias_48461727
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bbeeed91db25036449d48843ebf63a79, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bbeeed91db25036449d48843ebf63a79, type: 3}
       propertyPath: m_LocalPosition.x
@@ -789,6 +809,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Husni_Fabrizio_48792318 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5c66a3618b51b99459838ff83936925c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5c66a3618b51b99459838ff83936925c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181.7
@@ -882,6 +906,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: f7f6e761fc25c4c42b8eefdaa17fb38e, type: 3}
       propertyPath: m_Name
       value: Safdieh_Oliver Adolfo_48245643
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f7f6e761fc25c4c42b8eefdaa17fb38e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f7f6e761fc25c4c42b8eefdaa17fb38e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1054,6 +1082,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Baron_Ian Ezequiel_48313128
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: cd65075b6155ae74f989bb7762c234bc, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cd65075b6155ae74f989bb7762c234bc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 58.6
@@ -1148,6 +1180,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Michanie_Maia_48521774
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6880d44d463038a42a3a92100af212a1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6880d44d463038a42a3a92100af212a1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 58.6
@@ -1241,6 +1277,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 5c66a3618b51b99459838ff83936925c, type: 3}
       propertyPath: m_Name
       value: Husni_Fabrizio_48792318
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5c66a3618b51b99459838ff83936925c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5c66a3618b51b99459838ff83936925c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1418,6 +1458,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kapustiansky_Benjamin_48521682 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 849030b376ca7764a88eeb1c13c9a11c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 849030b376ca7764a88eeb1c13c9a11c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181.7
@@ -1510,7 +1554,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 666164057}
-  - component: {fileID: 666164056}
   m_Layer: 0
   m_Name: objetos1
   m_TagString: Untagged
@@ -1518,37 +1561,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &666164056
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 666164055}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff54f8dccbc435442a1df74a35a44d89, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  objetos:
-  - {fileID: 100000, guid: cd65075b6155ae74f989bb7762c234bc, type: 3}
-  - {fileID: 100000, guid: 062976ecb8494ae42ab6a7dc4244c49e, type: 3}
-  - {fileID: 100000, guid: e51a6fd008917c542855570b97a30ea1, type: 3}
-  - {fileID: 100000, guid: 39f44145a6417234bbb2bf35887b8b53, type: 3}
-  - {fileID: 100000, guid: 5c66a3618b51b99459838ff83936925c, type: 3}
-  - {fileID: 100000, guid: 849030b376ca7764a88eeb1c13c9a11c, type: 3}
-  - {fileID: 100000, guid: 8cd45fa1c1f9ffc479c68ad4b4583567, type: 3}
-  - {fileID: 100000, guid: 30203d87414764649a22eb5e25d61370, type: 3}
-  - {fileID: 100000, guid: c0d9a1b7e6c129f48b1a75b66e295e7d, type: 3}
-  - {fileID: 100000, guid: d191ece035d130940bee04b1fd6da682, type: 3}
-  - {fileID: 100000, guid: 6880d44d463038a42a3a92100af212a1, type: 3}
-  - {fileID: 100006, guid: 2fb9c28c151eb0b4a948406fb85094fd, type: 3}
-  - {fileID: 100000, guid: bbeeed91db25036449d48843ebf63a79, type: 3}
-  - {fileID: 100008, guid: 6b07f77ad417bdb45991c774c1554a17, type: 3}
-  - {fileID: 100000, guid: f7412217d4ad5e344852b172452ddc18, type: 3}
-  - {fileID: 100000, guid: f7f6e761fc25c4c42b8eefdaa17fb38e, type: 3}
-  - {fileID: 100000, guid: 349a484bdf7385848b525910edac74d0, type: 3}
-  - {fileID: 100000, guid: ab832a5abf12a5c41a2a71220efeacb1, type: 3}
 --- !u!4 &666164057
 Transform:
   m_ObjectHideFlags: 0
@@ -1591,6 +1603,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 062976ecb8494ae42ab6a7dc4244c49e, type: 3}
       propertyPath: m_Name
       value: Grynfeld_Matias_48519558
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 062976ecb8494ae42ab6a7dc4244c49e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 062976ecb8494ae42ab6a7dc4244c49e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1684,7 +1700,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 858401808}
-  - component: {fileID: 858401809}
   m_Layer: 0
   m_Name: objetos2
   m_TagString: Untagged
@@ -1720,37 +1735,6 @@ Transform:
   m_Father: {fileID: 170076735}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &858401809
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 858401807}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff54f8dccbc435442a1df74a35a44d89, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  objetos:
-  - {fileID: 100000, guid: cd65075b6155ae74f989bb7762c234bc, type: 3}
-  - {fileID: 100000, guid: 062976ecb8494ae42ab6a7dc4244c49e, type: 3}
-  - {fileID: 100000, guid: e51a6fd008917c542855570b97a30ea1, type: 3}
-  - {fileID: 100000, guid: 39f44145a6417234bbb2bf35887b8b53, type: 3}
-  - {fileID: 100000, guid: 5c66a3618b51b99459838ff83936925c, type: 3}
-  - {fileID: 100000, guid: 849030b376ca7764a88eeb1c13c9a11c, type: 3}
-  - {fileID: 100000, guid: 8cd45fa1c1f9ffc479c68ad4b4583567, type: 3}
-  - {fileID: 100000, guid: 30203d87414764649a22eb5e25d61370, type: 3}
-  - {fileID: 100000, guid: c0d9a1b7e6c129f48b1a75b66e295e7d, type: 3}
-  - {fileID: 100000, guid: d191ece035d130940bee04b1fd6da682, type: 3}
-  - {fileID: 100000, guid: 6880d44d463038a42a3a92100af212a1, type: 3}
-  - {fileID: 100006, guid: 2fb9c28c151eb0b4a948406fb85094fd, type: 3}
-  - {fileID: 100000, guid: bbeeed91db25036449d48843ebf63a79, type: 3}
-  - {fileID: 100008, guid: 6b07f77ad417bdb45991c774c1554a17, type: 3}
-  - {fileID: 100000, guid: f7412217d4ad5e344852b172452ddc18, type: 3}
-  - {fileID: 100000, guid: f7f6e761fc25c4c42b8eefdaa17fb38e, type: 3}
-  - {fileID: 100000, guid: 349a484bdf7385848b525910edac74d0, type: 3}
-  - {fileID: 100000, guid: ab832a5abf12a5c41a2a71220efeacb1, type: 3}
 --- !u!1001 &869813824
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1761,6 +1745,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d191ece035d130940bee04b1fd6da682, type: 3}
       propertyPath: m_Name
       value: Marcel_Benjamin_48675120
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d191ece035d130940bee04b1fd6da682, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d191ece035d130940bee04b1fd6da682, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1856,6 +1844,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wraage_Theo_48039362
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ab832a5abf12a5c41a2a71220efeacb1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ab832a5abf12a5c41a2a71220efeacb1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 58.6
@@ -1949,6 +1941,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bbeeed91db25036449d48843ebf63a79, type: 3}
       propertyPath: m_Name
       value: Niebieski_Matias_48461727 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bbeeed91db25036449d48843ebf63a79, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bbeeed91db25036449d48843ebf63a79, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2123,6 +2119,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Huberman_Sebastian_48461823 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 39f44145a6417234bbb2bf35887b8b53, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 39f44145a6417234bbb2bf35887b8b53, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181.7
@@ -2216,6 +2216,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d191ece035d130940bee04b1fd6da682, type: 3}
       propertyPath: m_Name
       value: Marcel_Benjamin_48675120 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d191ece035d130940bee04b1fd6da682, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d191ece035d130940bee04b1fd6da682, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2388,6 +2392,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ruvira_Joaquin_48386552 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f7412217d4ad5e344852b172452ddc18, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f7412217d4ad5e344852b172452ddc18, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181.7
@@ -2482,6 +2490,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kapustiansky_Benjamin_48521682
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 849030b376ca7764a88eeb1c13c9a11c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 849030b376ca7764a88eeb1c13c9a11c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 58.6
@@ -2575,6 +2587,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: c0d9a1b7e6c129f48b1a75b66e295e7d, type: 3}
       propertyPath: m_Name
       value: Mandel_Julian Micael_50562999
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c0d9a1b7e6c129f48b1a75b66e295e7d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c0d9a1b7e6c129f48b1a75b66e295e7d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2742,6 +2758,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lerman_Lautaro_48311063 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 30203d87414764649a22eb5e25d61370, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 30203d87414764649a22eb5e25d61370, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181.7
@@ -2902,6 +2922,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Niewiadomski_Jazmin_48464024
       objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: 6b07f77ad417bdb45991c774c1554a17, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400008, guid: 6b07f77ad417bdb45991c774c1554a17, type: 3}
       propertyPath: m_LocalPosition.x
       value: 58.6
@@ -2995,6 +3019,10 @@ PrefabInstance:
     - target: {fileID: 100006, guid: 2fb9c28c151eb0b4a948406fb85094fd, type: 3}
       propertyPath: m_Name
       value: Morillo_Baltazar_48113022
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 2fb9c28c151eb0b4a948406fb85094fd, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: 2fb9c28c151eb0b4a948406fb85094fd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3183,6 +3211,85 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &1481238031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1481238033}
+  - component: {fileID: 1481238032}
+  m_Layer: 0
+  m_Name: comportamiento
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1481238032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1481238031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59e287f7512a268418b05b9077456db4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  primerproducto:
+  - {fileID: 667731126}
+  - {fileID: 61763023}
+  - {fileID: 1535039293}
+  - {fileID: 511920912}
+  - {fileID: 1102795510}
+  - {fileID: 1863623584}
+  - {fileID: 196078504}
+  - {fileID: 1145404829}
+  - {fileID: 869813827}
+  - {fileID: 447890161}
+  - {fileID: 1428166363}
+  - {fileID: 201521306}
+  - {fileID: 1363120728}
+  - {fileID: 1926487926}
+  - {fileID: 346832799}
+  - {fileID: 2101546026}
+  - {fileID: 888065042}
+  - {fileID: 375154543}
+  segundoproducto:
+  - {fileID: 1599252390}
+  - {fileID: 1904804519}
+  - {fileID: 1009556884}
+  - {fileID: 264306317}
+  - {fileID: 658568251}
+  - {fileID: 7999287}
+  - {fileID: 1260567106}
+  - {fileID: 1690897577}
+  - {fileID: 1057243587}
+  - {fileID: 108584743}
+  - {fileID: 978798171}
+  - {fileID: 1099135270}
+  - {fileID: 1568507323}
+  - {fileID: 1557821042}
+  Precio1: {fileID: 1095347625}
+  Precio2: {fileID: 1009329820}
+--- !u!4 &1481238033
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1481238031}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 267.7258, y: 148.86606, z: 0.3729248}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1484544525
 GameObject:
   m_ObjectHideFlags: 0
@@ -3270,6 +3377,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 39f44145a6417234bbb2bf35887b8b53, type: 3}
       propertyPath: m_Name
       value: Huberman_Sebastian_48461823
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 39f44145a6417234bbb2bf35887b8b53, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 39f44145a6417234bbb2bf35887b8b53, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3365,6 +3476,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slotnisky_Gabriel_48242293 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 349a484bdf7385848b525910edac74d0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 349a484bdf7385848b525910edac74d0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181.7
@@ -3459,6 +3574,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Safdieh_Oliver Adolfo_48245643 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f7f6e761fc25c4c42b8eefdaa17fb38e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f7f6e761fc25c4c42b8eefdaa17fb38e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181.7
@@ -3552,6 +3671,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 062976ecb8494ae42ab6a7dc4244c49e, type: 3}
       propertyPath: m_Name
       value: Grynfeld_Matias_48519558 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 062976ecb8494ae42ab6a7dc4244c49e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 062976ecb8494ae42ab6a7dc4244c49e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3782,6 +3905,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mandel_Julian Micael_50562999 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c0d9a1b7e6c129f48b1a75b66e295e7d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c0d9a1b7e6c129f48b1a75b66e295e7d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181.7
@@ -3875,6 +4002,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 8cd45fa1c1f9ffc479c68ad4b4583567, type: 3}
       propertyPath: m_Name
       value: Kohen_Liam_48313909
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 8cd45fa1c1f9ffc479c68ad4b4583567, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8cd45fa1c1f9ffc479c68ad4b4583567, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3970,6 +4101,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hauser_Tomas_48386206 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e51a6fd008917c542855570b97a30ea1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e51a6fd008917c542855570b97a30ea1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181.73
@@ -4063,6 +4198,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: f7412217d4ad5e344852b172452ddc18, type: 3}
       propertyPath: m_Name
       value: Ruvira_Joaquin_48386552
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f7412217d4ad5e344852b172452ddc18, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f7412217d4ad5e344852b172452ddc18, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4314,6 +4453,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slotnisky_Gabriel_48242293
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 349a484bdf7385848b525910edac74d0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 349a484bdf7385848b525910edac74d0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 58.6
@@ -4397,46 +4540,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   precio: 245
---- !u!1 &2115919049
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2115919051}
-  - component: {fileID: 2115919050}
-  m_Layer: 0
-  m_Name: LoginManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &2115919050
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2115919049}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2658db3722fab9c4d871a7c0d1f02cca, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &2115919051
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2115919049}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 272.60138, y: 177.26256, z: -0.000030517578}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
